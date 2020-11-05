@@ -1,5 +1,5 @@
 .banner {
-  background-image: url("../../images/Painting-Hockney.jpg");
+  background-image: linear-gradient(rgba(255,255,255,.1), rgba(255,255,255,.1)), url("../../images/klein2.jpg");
   background-size: cover;
   background-position: center;
   padding: 200px 0;
