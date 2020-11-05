@@ -1,20 +1,20 @@
 .footer {
-  background-color: #2c2b2b;
+  background-color: #ff9a8c;
   text-align: center;
 
 }
 
 .footer-links a {
   font-size: 35px;
-  color: #1EDD88;
+  color: #ea2c62;
 }
 
 .footer p {
   color: white;
-  opacity: 0.5;
+  opacity: 0.7;
 }
 
 .footer .fa-heart {
-  color: red;
+  color: #ea2c62;
   opacity: 1;
 }
